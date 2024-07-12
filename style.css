@@ -6,7 +6,7 @@
 }
 
 body{
-    height: 100vh;
+    height: 90vh;
     width: 100%;
     /* background: #202020; */
     display: flex;
@@ -23,7 +23,7 @@ body{
 .box .search-bar{
     position: relative;
     height: 50px;
-    max-width: 380px;
+    max-width: 370px;
     /* background: black; */
     margin: auto;
     border-radius: 25px;
